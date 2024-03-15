@@ -1,0 +1,45 @@
+body{
+    background: rgb(255, 255, 255);
+    background-image: url("images.png") ;
+    background-size: cover;
+
+}
+.kal{
+    background-color: #919191;
+    box-shadow: 0px 10px 10px 0px #000000;
+    width: 380px;
+    height: 190px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 30px;
+    margin: 100px auto;
+
+}
+.about{
+    background-color: #dedede;
+    box-shadow: 0px 10px 10px 0px #000000;
+    width: 370px;
+    height: 100px;
+    border: 1px solid rgb(0, 0, 0);
+    margin: 50px auto;
+}
+.help{
+    background-color: #d2d2d2;
+    box-shadow: 0px 10px 10px 0px #000000;
+    width: 370px;
+    height: 100px;
+    border: 1px solid rgb(0, 0, 0);
+    margin: 50px auto;
+}
+button{
+    padding: 5px;
+    width: 370px;
+    border-bottom: 1px solid #000000;
+    border-radius: 15px;
+    background: #fffdfde1;
+    margin: 4px;
+}
+.judul{
+    text-align: center;
+    color: #ffffff;
+    font-weight: normal;
+}
